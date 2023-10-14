@@ -1,0 +1,16 @@
+{
+  "nhs_CostOnlineService_url"             :     "https://services.nhsbsa.nhs.uk/check-for-help-paying-nhs-costs/start",
+  "gp_practice_Scotland_or_Wales"         :     "no",
+  "date_of_birth"                         :     "22-10-1991",
+  "living_with_partner"                   :     "yes",
+  "claiming_benefits_or_tax_credits"      :     "no",
+  "pregnant_or_given_birth"               :     "no",
+  "injury_or_illness"                     :     "no",
+  "diabetes"                              :     "no",  
+  "glaucoma"                              :     "no",
+  "condition_or_treatment"                :     "no",
+  "living_in_carehome"                    :     "no",
+  "savings_investments_property"          :     "no",
+  "Highlands_and_Islands_living_status"   :     "no"
+
+}
